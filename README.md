@@ -1,6 +1,6 @@
-# OS Dojo
+# How to collaborate on Github projecrt
 
-Welcome to OS Dojo. This repository should help you to understand how to collaborate on open-source projects you like to work on but might have fear of screwing up something.
+This repository should help you to understand how to collaborate on open-source projects you like to work on but might have fear of screwing up something.
 Here are the steps to get started:
 
 Owerview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
@@ -34,7 +34,7 @@ Owerview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v
    4. After you have created a new branch, update the file. In this example, add your name to the README.md file and push the solution to your repository.
    5. Now it's time to shine and make your first Pull Request to the original repository. If your code is correct, you can update your issue and mark the issue with your Pull Request ID as resolved.
 
-Congratulations! You are now a team member of Onchain Squad. Scroll down to your user account entry and make sure the README.md is updated.
+Congratulations! Scroll down to your user account entry and make sure the README.md is updated.
 
 | Github Name |
 | ----------- |
