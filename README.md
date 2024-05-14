@@ -1,9 +1,9 @@
-# How to collaborate on Github projecrt
+# How to collaborate on Github project
 
-This repository should help you to understand how to collaborate on open-source projects you like to work on but might have fear of screwing up something.
+This repository should help you understand how to collaborate on open-source projects you like to work on but might have a fear of screwing something up.
 Here are the steps to get started:
 
-Owerview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
+Overview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project)
 
 1. Your first step is to create an issue. Usually, if you use open-source, you might not know how to fix a specific bug but someone else might have the knowledge, or you just want to start a simple discussion on an idea you might have in mind.
 
@@ -13,7 +13,7 @@ Owerview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v
    I want to be a part of the Onchain Squad Team but my name is missing in the README.md file. Please add me.
    ```
 
-2. After you have sent your issue, you go through the debugging and collaboration phase.
+2. After you have submitted your issue, you go through the debugging and collaboration phases.
 
    1. Fork and clone this repository </br>
 
@@ -26,7 +26,7 @@ Owerview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v
       git fetch
       ```
       Even if Git doesn't show new code, this is a good practice to follow.
-   3. Create a new branch. The branch should include your GitHub account name and the project you are working on, like so:
+   3. Create a new branch. The branch should include your GitHub account name and the project you are working on, like this:
       ```bash
       git checkout -b myGithubAccount-addANewName-issueID
       ```
@@ -36,8 +36,8 @@ Owerview of [Contributing to a Project - Git Book](https://git-scm.com/book/en/v
 
 Congratulations! Scroll down to your user account entry and make sure the README.md is updated.
 
-| Github Name |
-| ----------- |
-| John Doe    |
-| Pate87      |
-| Your Name   |
+| Github Username   |
+| ----------------- |
+| pate87            |
+| wslyvh            |
+| your_username     |
